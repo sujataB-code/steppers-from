@@ -1,0 +1,3 @@
+export const SET_PERSONAL_INFO = 'SET_PERSONAL_INFO';
+export const SET_COMPANY_INFO = 'SET_COMPANY_INFO';
+export const SET_PLAN_INFO = 'SET_PLAN_INFO';
